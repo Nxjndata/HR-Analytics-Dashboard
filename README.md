@@ -39,9 +39,11 @@ The goal is to move beyond the numbers to address these challenges with clarity 
 # Analysis and Visualization
 
 1. Employee Status - Male
+![Page_1](https://github.com/user-attachments/assets/317f9141-a66b-4df0-a36f-f0cefb0d3740)
 
 
 2. Employee Status - Female
+![Page_2](https://github.com/user-attachments/assets/1feec304-6ec4-481c-8683-9fd1a21d56fc)
 
 
 
